@@ -8,4 +8,8 @@ Since the data size in all versions adds up to 300MB, we first provide "submitte
 We will then store the data to the Google Cloud.
 
 
+~\resource\Repo-info.xlsx
+File "Repo-info.xlsx" contains a list of 52 projects used in the paper.
+
+
 Source code, PR and other related data will be updated soon.
